@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Sidharth H L!
 
-Welcome to the README of a caffeine-fueled coder, cybersecurity enthusiast, and part-time badminton champ. I'm currently pursuing my B.Tech in Computer Science at **Govt. Model Engineering College, Kochi**, and trust me, I'm coding my way through it (and occasionally debugging life).
+I am a caffeine-fueled coder, cybersecurity enthusiast, and part-time badminton champ. I'm currently pursuing my B.Tech in Computer Science at **Govt. Model Engineering College, Kochi**, and trust me, I'm coding my way through it (and occasionally debugging life).
 
 ---
 
@@ -48,7 +48,6 @@ Welcome to the README of a caffeine-fueled coder, cybersecurity enthusiast, and 
 ---
 
 ## 🎤 Where I Show Up
-- **Campus Ambassador at Acmegrade**
 - **UNHRC Delegate** at MEC MUN’25 (because why not save the world?)
 - **Volunteer at TinkHack 2023** – Kerala’s First Gen AI Hackathon 💡
 
@@ -65,10 +64,5 @@ Welcome to the README of a caffeine-fueled coder, cybersecurity enthusiast, and 
 ## 🔗 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/sidharth-hl/)
 - [GitHub](https://github.com/Sidharthtech)
-- 📧 [Email Me](mailto:sidharthhl.mec@gmail.com)
-
----
-
-> “Don’t just write code, write stories people can debug.”  
-> — Me (or maybe ChatGPT)
+- [Email Me](mailto:sidharthhl.mec@gmail.com)
 
