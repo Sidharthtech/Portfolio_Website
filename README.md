@@ -68,7 +68,7 @@ I'm an enthusiastic Computer Science student at **Govt. Model Engineering Colleg
 ---
 
 ## 🔗 Connect with Me
-- 📎 [LinkedIn](https://www.linkedin.com/in/sidharth-hl/)
+- 📎 [LinkedIn](https://www.linkedin.com/in/sidharth-h-l/)
 - 💻 [GitHub](https://github.com/Sidharthtech)
 - 📬 [Email](mailto:sidharthhl.mec@gmail.com)
 
