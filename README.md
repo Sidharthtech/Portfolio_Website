@@ -1,49 +1,74 @@
-# Portfolio_Website
+# 👋 Hey there, I'm Sidharth H L!
 
-👋 Hey there, I'm Sidharth!
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDBscjBjdjVqa3Zza3B1dGZqN3M4c3A1dWY5dWs2c2w2ZHI2eGk1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif" width="200px" />
-</p>
+Welcome to the README of a caffeine-fueled coder, cybersecurity enthusiast, and part-time badminton champ. I'm currently pursuing my B.Tech in Computer Science at **Govt. Model Engineering College, Kochi**, and trust me, I'm coding my way through it (and occasionally debugging life).
 
-I'm a Computer Science Engineering student on a mission to blend creativity with code. I'm passionate about building cool things, securing digital fortresses, and diving deep into the world of AI.
+---
 
-🚀 About Me
-🎓 Studying: B.Tech in Computer Science at Govt. Model Engineering College (Class of 2026).
+## 🛠️ Tech Stack & Tools I Speak Fluent In:
+- **Languages**: Python 🐍, C ⚙️, Java ☕, HTML5, CSS3, JavaScript 🔥
+- **Frameworks & Tools**: Git, Scapy, MySQL, Adobe Illustrator, Photoshop 🎨
+- **Superpowers (aka Soft Skills)**: 
+  - Confidence (not cocky, I promise!)
+  - Creativity (give me a blank canvas and a deadline)
+  - Conflict Resolution (yes, even when merge conflicts are involved)
+  - Time Management (unless there's a new anime drop)
 
-💻 Coding Spells: I cast spells in Python, Java, C, and the magical trio of HTML, CSS & JavaScript.
+---
 
-🛡️ Cyber-Knight: I've dabbled in the dark arts of cybersecurity, learning to defend realms from digital dragons during my internship at CDAC.
+## 👾 Favorite Zones in Tech:
+- Cybersecurity 🕵️
+- Machine Learning 🤖
+- Neural Networks 🧠
+- Data Science 📊
+- Artificial Intelligence (a.k.a. trying to teach machines how to vibe)
 
-🎨 Creative Soul: When I'm not coding, you can find me sketching ideas in Adobe Illustrator or Photoshop.
+---
 
-🗣️ Talkative Techie: I love a good debate, a public speaking challenge, and writing about things that excite me.
+## 🔍 Some Fun Things I've Built:
+- 🧠 **College Prediction System** – Because choosing a college shouldn't feel like rolling dice 🎲
+- 🖱️ **Real-Time CAPTCHA using Mouse Movements** – Bots beware, I see you wiggle
+- 🛡️ **ARP Spoofing Detection Toolkit** – Defending the internet one packet at a time
 
-🛠️ My Tech Arsenal
-Here are a few of the technologies I've been working with recently:
+---
 
-✨ My Quests (Projects)
-Here are some of the adventures I've been on:
+## 🎓 Learning Trail
+- Web Dev? ✔️ (thanks, Acmegrade + IIT Bombay!)
+- Cybersecurity? ✔️ (AICTE + Qnayds LLP had my back)
+- Ethical Hacking Workshops? ✔️ x2 (sneaky, but ethical)
+- AI Web Dev at MAGIC 3.0? ✔️ (sparkles included)
 
-College Predictor: Wielded HTML, CSS, and JavaScript to build a portal that helps students foresee their college admission chances.
+---
 
-Mouse-Movement CAPTCHA: A quest to defeat bots! I helped build a CAPTCHA that knows you're human by the way you move your mouse.
+## 🧳 Experience in the Wild:
+### 🔐 Cybersecurity Intern at CDAC
+- Got hands-on with Scapy
+- Detected threats like a ninja
+- Hardened systems like a medieval blacksmith
 
-ARP Spoofing Detector: Forged a tool with Python and Scapy to stand guard against network tricksters.
+---
 
-🌱 I’m currently learning...
-I'm always looking to level up my skills. Right now, I'm diving deeper into:
+## 🎤 Where I Show Up
+- **Campus Ambassador at Acmegrade**
+- **UNHRC Delegate** at MEC MUN’25 (because why not save the world?)
+- **Volunteer at TinkHack 2023** – Kerala’s First Gen AI Hackathon 💡
 
-Machine Learning & Neural Networks
+---
 
-Advanced Cybersecurity Techniques
+## 🏆 Side Quests and Achievements
+- 🏸 Badminton Aficionado
+- 🗣️ Public Speaking & Debating Addict
+- 🖊️ Hobby Writer (plotting plot twists in JavaScript)
+- 🏊 Swimmer (deep dives aren’t just for data)
 
-Data Science Adventures
+---
 
-📫 Let's Connect!
-I'm always up for a chat about tech, a new project, or a good book recommendation!
+## 🔗 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/sidharth-hl/)
+- [GitHub](https://github.com/Sidharthtech)
+- 📧 [Email Me](mailto:sidharthhl.mec@gmail.com)
 
-Email: sidharthhl.mec@gmail.com
+---
 
-LinkedIn: [Your LinkedIn Profile URL]
+> “Don’t just write code, write stories people can debug.”  
+> — Me (or maybe ChatGPT)
 
-GitHub: [Your GitHub Profile URL]
