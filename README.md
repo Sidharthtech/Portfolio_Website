@@ -1,68 +1,75 @@
-# 👋 Hey there, I'm Sidharth H L!
+# 👋 Hello, I'm Sidharth H L
 
-I am a caffeine-fueled coder, cybersecurity enthusiast, and part-time badminton champ. I'm currently pursuing my B.Tech in Computer Science at **Govt. Model Engineering College, Kochi**, and trust me, I'm coding my way through it (and occasionally debugging life).
-
----
-
-## 🛠️ Tech Stack & Tools I Speak Fluent In:
-- **Languages**: Python 🐍, C ⚙️, Java ☕, HTML5, CSS3, JavaScript 🔥
-- **Frameworks & Tools**: Git, Scapy, MySQL, Adobe Illustrator, Photoshop 🎨
-- **Superpowers (aka Soft Skills)**: 
-  - Confidence (not cocky, I promise!)
-  - Creativity (give me a blank canvas and a deadline)
-  - Conflict Resolution (yes, even when merge conflicts are involved)
-  - Time Management (unless there's a new anime drop)
+I'm an enthusiastic Computer Science student at **Govt. Model Engineering College, Kochi**, with a passion for cybersecurity, AI, and meaningful tech projects. I enjoy building creative solutions, analyzing threats in digital systems, and occasionally getting competitive on the badminton court.
 
 ---
 
-## 👾 Favorite Zones in Tech:
-- Cybersecurity 🕵️
-- Machine Learning 🤖
-- Neural Networks 🧠
-- Data Science 📊
-- Artificial Intelligence (a.k.a. trying to teach machines how to vibe)
+## 🛠️ Technical Proficiencies
+- **Languages**: Python, C, Java, HTML5, CSS3, JavaScript
+- **Tools & Technologies**: Git, Scapy, MySQL, Adobe Illustrator, Photoshop
+- **Core Competencies**:
+  - Creative Problem Solving
+  - Time Management & Adaptability
+  - Conflict Resolution & Communication
+  - Decision-Making under Pressure
 
 ---
 
-## 🔍 Some Fun Things I've Built:
-- 🧠 **College Prediction System** – Because choosing a college shouldn't feel like rolling dice 🎲
-- 🖱️ **Real-Time CAPTCHA using Mouse Movements** – Bots beware, I see you wiggle
-- 🛡️ **ARP Spoofing Detection Toolkit** – Defending the internet one packet at a time
+## 💡 Areas of Interest
+- Cybersecurity & Network Defense
+- Artificial Intelligence & Machine Learning
+- Neural Networks
+- Data Science & Analytics
+- Full Stack Web Development
 
 ---
 
-## 🎓 Learning Trail
-- Web Dev? ✔️ (thanks, Acmegrade + IIT Bombay!)
-- Cybersecurity? ✔️ (AICTE + Qnayds LLP had my back)
-- Ethical Hacking Workshops? ✔️ x2 (sneaky, but ethical)
-- AI Web Dev at MAGIC 3.0? ✔️ (sparkles included)
+## 🧪 Notable Projects
+- **College Prediction System**  
+  A website to help students estimate their chances of college admission based on rank and preferences.  
+  *Tech:* HTML, CSS, JavaScript
+
+- **Real-Time CAPTCHA via Mouse Movements**  
+  A human verification system based on mouse dynamics to differentiate between bots and users.  
+  *Tech:* HTML, CSS, JavaScript
+
+- **ARP Spoofing Detection Toolkit**  
+  A Python-based toolkit using Scapy to monitor networks, detect spoofing attempts, and initiate auto-mitigation.  
+  *Tech:* Python, Scapy
 
 ---
 
-## 🧳 Experience in the Wild:
-### 🔐 Cybersecurity Intern at CDAC
-- Got hands-on with Scapy
-- Detected threats like a ninja
-- Hardened systems like a medieval blacksmith
+## 🎓 Learning & Certifications
+- Web Development – Acmegrade (in collaboration with IIT Bombay)
+- Cybersecurity – Qnayds LLP & AICTE
+- Workshops in Ethical Hacking, C Programming, and AI-driven Web Development
 
 ---
 
-## 🎤 Where I Show Up
-- **UNHRC Delegate** at MEC MUN’25 (because why not save the world?)
-- **Volunteer at TinkHack 2023** – Kerala’s First Gen AI Hackathon 💡
+## 🧳 Professional Experience
+### Cybersecurity Intern – CDAC
+- Gained hands-on experience with tools like Scapy for packet analysis
+- Worked on threat detection, system hardening, and network monitoring tasks under mentorship
 
 ---
 
-## 🏆 Side Quests and Achievements
-- 🏸 Badminton Aficionado
-- 🗣️ Public Speaking & Debating Addict
-- 🖊️ Hobby Writer (plotting plot twists in JavaScript)
-- 🏊 Swimmer (deep dives aren’t just for data)
+## 🌍 Extracurricular Engagements
+- Delegate at **UNHRC – MEC MUN’25**
+- Volunteer at **TinkHack 2023**, Kerala’s First Gen AI Hackathon
 
 ---
 
-## 🔗 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/sidharth-hl/)
-- [GitHub](https://github.com/Sidharthtech)
-- [Email Me](mailto:sidharthhl.mec@gmail.com)
+## 🏅 Interests & Activities
+- Badminton 🏸
+- Public Speaking & Debating 🗣️
+- Creative Writing ✍️
+- Swimming 🏊
 
+---
+
+## 🔗 Connect with Me
+- 📎 [LinkedIn](https://www.linkedin.com/in/sidharth-hl/)
+- 💻 [GitHub](https://github.com/Sidharthtech)
+- 📬 [Email](mailto:sidharthhl.mec@gmail.com)
+
+> *Always eager to collaborate, learn, and contribute to impactful tech projects.*
